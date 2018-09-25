@@ -4,7 +4,6 @@ p
     font-size: 30px;
     font-family: Arial;
 }
-
 h1
 {
     color: blue;
@@ -15,9 +14,24 @@ h1
     color:orange;
 }
 
-
 #unique
 {
    font-size: 80px;
 
 }
+
+a:link
+{
+   color:orange
+}
+
+a:visited
+{
+   color:green
+}
+
+a:hover
+{
+    color:blue
+}
+
