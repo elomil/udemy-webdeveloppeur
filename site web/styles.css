@@ -21,4 +21,18 @@ h1
     color: #ff7a00;
 }
 
+
 /*HEADER*/
+
+header
+{
+    height: 120px;
+}
+header h1
+{
+    float: left;
+}
+header nav
+{
+    float: right;
+}
