@@ -1,6 +1,13 @@
-div
+.red
 {
     background-color: red;
-    width:200px;
-    margin: 50px 20px 30px 80px;
+    width: 400px;
+    height: 500px;
+    margin: 100px 50px;
+}
+.blue
+{
+    background-color: blue;
+    width: 400px;
+    height: 500px;
 }
