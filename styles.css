@@ -1,5 +1,6 @@
 p
 {
-  display: inline;
-    background-color: yellow
+    display: inline-block;
+    background-color: yellow;
+    width: 300px;
 }
