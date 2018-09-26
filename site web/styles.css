@@ -16,6 +16,16 @@ h1
     font-size: 45px;
     color: #444;
 }
+ul
+{
+    list-style: none;
+}
+.wrapper
+{
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
 .orange
 {
     color: #ff7a00;
@@ -31,8 +41,35 @@ header
 header h1
 {
     float: left;
+    margin-top: 32px;
 }
 header nav
 {
     float: right;
 }
+header nav ul li
+{
+   display: inline-block;
+}
+header nav ul li a
+{
+    text-transform: uppercase;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
