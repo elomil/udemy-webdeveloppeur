@@ -5,13 +5,20 @@
     margin: 0;
     padding: 0;
 }
-
 body
 {
     font-family: Arial,sans-serif;
     font-size: 15px;
 }
-
-
+h1
+{
+    font-family: 'Crete Round', serif;
+    font-size: 45px;
+    color: #444;
+}
+.orange
+{
+    color: #ff7a00;
+}
 
 /*HEADER*/
