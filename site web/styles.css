@@ -54,7 +54,11 @@ a
 {
     clear: both;
 }
-
+small
+{
+    font-size: 13px;
+    font-style: italic;
+}
 /*HEADER*/
 
 header
@@ -183,9 +187,20 @@ article h4
     border-bottom: 1px solid #ddd;
     padding-bottom: 20px;
     text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: center;
 }
-
-
+#possibilities p
+{
+    text-align: center;
+}
+.button-2
+{
+    color: #fff;
+    background-color: #ff7a00;
+    padding: 6px 20px;
+    border-radius: 3px;
+}
 
 
 
