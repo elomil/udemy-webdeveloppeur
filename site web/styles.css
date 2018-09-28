@@ -119,6 +119,8 @@ header nav ul li a
 {
     width: 300px;
     float: left;
+    padding-top: 140px;
+    text-align: center;
 }
 #steps h4
 {
