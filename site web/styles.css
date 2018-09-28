@@ -125,15 +125,19 @@ header nav ul li a
     text-transform: uppercase;
     margin-bottom: 20px;
 }
-#steps-1
+#steps p
 {
     
 }
-#steps-2
+#step-1
+{
+    background: url('images/steps-icon-1.png') ;
+}
+#step-2
 {
     
 }
-#steps-3
+#step-3
 {
     
 }
