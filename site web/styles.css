@@ -181,6 +181,7 @@ header nav ul li a
     width: 190px;
     padding: 20px;
     border-radius: 10px 0 0 10px;
+    text-align: center;
 }
 article h4
 {
@@ -193,6 +194,7 @@ article h4
 #possibilities p
 {
     text-align: center;
+    margin-bottom: 20px;
 }
 .button-2
 {
@@ -201,7 +203,12 @@ article h4
     padding: 6px 20px;
     border-radius: 3px;
 }
-
+.button-2:hover
+{
+    color: #fff;
+    background-color: #02b8dd;
+    
+}
 
 
 
