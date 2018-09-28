@@ -120,6 +120,11 @@ header nav ul li a
     width: 300px;
     float: left;
 }
+#steps h4
+{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
 #steps-1
 {
     
