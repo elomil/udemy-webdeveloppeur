@@ -18,7 +18,6 @@ h1
 {
     font-family: 'Crete Round', serif;
     font-size: 45px;
-    
 }
 h2
 {
@@ -34,7 +33,7 @@ h4
 }
 p
 {
-   line-height: 20px;
+    line-height: 20px;
     color: #777;
 }
 ul
@@ -65,6 +64,7 @@ small
     font-size: 13px;
     font-style: italic;
 }
+
 /*HEADER*/
 
 header
@@ -93,14 +93,14 @@ header nav ul li a
     margin-right: 20px;
 }
     
-  /* MAIN IMAGE*/  
+/* MAIN IMAGE*/  
     
- #main-image
+#main-image
 {
     height: 580px;
     background: url('images/main.jpg') center;
 }
-  #main-image h2
+#main-image h2
 {
     font-weight: normal;
     text-transform: uppercase;
@@ -123,7 +123,7 @@ header nav ul li a
 }
 .button-1:hover
 {
-   background: #02b8dd; 
+    background: #02b8dd; 
 }
     
 /* STEPS*/
@@ -242,11 +242,45 @@ label
     margin-right: 10px;
     color: #777;
 }
+input[type="text"]
+{
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 20px;
+    border: 2px solid #ddd;
+    border-radius: 3px;
+}
+.button-3
+{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 11px;
+    background-color: #02b8dd;
+    border-style: none;
+}
+.button-3:hover
+{
+    color: #fff;
+    background-color: #444;
+}
 
-
-
-
-
-
-
-
+/* FOOTER*/
+footer
+{
+    height: 260px;
+    background-color: #444;
+}
+footer h1
+{
+    color: #fff;
+    text-align: center;
+    padding-top: 80px; 
+}
+.copyright
+{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 30px;
+    color: #777;
+}
