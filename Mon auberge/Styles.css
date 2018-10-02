@@ -4,6 +4,7 @@
 {
     margin: 0; 
     padding: 0;
+    height: 80px;
 }
 body
 {
@@ -12,20 +13,18 @@ body
 }
 .wrapper
 {
-    width: 940px;
-    margin: 0 auto;
-    padding: 0 10px;
+    background-color: gray;
+    width: 1180px;
+    height: 80px;
+    margin-left: 40px;
+    margin-top: 30px;
 }
-
-/* HEADER*/
-
-header
+/* MAIN-IMAGE-DISCO*/
+#images-disco
 {
-    
+  background:  url('images/disco-309016_960_720.png') center;
+    height: 100px;
 }
-/* LOGO IMAGE*/
 
-#logo_image
-{
-    background: url('images/logo_client.png') left;
-}
+
+
