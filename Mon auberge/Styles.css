@@ -1,11 +1,28 @@
 /* General*/
 
+*
+{
+    margin: 0; 
+    padding: 0;
+}
+body
+{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+.wrapper
+{
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
 
+/* HEADER*/
 
-
-
-
-
+header
+{
+    
+}
 /* LOGO IMAGE*/
 
 #logo_image
