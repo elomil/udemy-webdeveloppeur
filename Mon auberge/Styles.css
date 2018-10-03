@@ -4,7 +4,6 @@
 {
     margin: 0; 
     padding: 0;
-    height: 80px;
 }
 body
 {
@@ -18,13 +17,34 @@ body
     height: 80px;
     margin-left: 40px;
     margin-top: 30px;
+    
 }
-/* MAIN-IMAGE-DISCO*/
-#images-disco
+/* HEADER*/
+ header 
 {
-  background:  url('images/disco-309016_960_720.png') center;
-    height: 100px;
+    margin-top: 20px;
+    
+}
+header img
+{
+    height: 80px;
+}
+header nav
+{
+    float: right;
+}
+header nav ul li
+{
+    display: inline-block;
 }
 
+/* DISCO-IMAGE*/
+#disco-image
+{
+    background: url(images/disco-309016_960_720.png) center no-repeat;
+    height: 663px;
+    margin-top: -120px;
+    
+}
 
 
