@@ -4,51 +4,65 @@
 {
     margin: 0; 
     padding: 0;
+    
 }
 body
 {
-    font-family: Arial, sans-serif;
+    font-family: "Varela Round";
     font-size: 15px;
+    
+}
+#oeil-image
+{
+    background: url(images/index.jpeg) no-repeat;
+    height: 225px;
+    
+    
+   
 }
 h1
 {
     font-size: 48px;
     text-align: center;
-    padding-top: 150px;
+    padding-top: 250px;
     font-weight: 700;
+
 }
 h2
 {
     text-align: center;
 }
+
 h3
 {
     text-align: center;
     color: #fff;
 }
+
 .center-div
 {
     margin: 0 auto;
     width: 150px;
     height: 20px;
     margin-top: 10px;
+    
 }
 .container
 {
     background-color: gray;
-    
-   
 }
 p
 {
     text-align: center;
     font-size: 16px;
+    width: 1180px;
+    margin-left: 40px;
+    
 }
 .wrapper
 {
     background-color: gray;
     width: 1180px;
-    
     margin-left: 40px;
     margin-top: 30px;
 }
@@ -56,6 +70,7 @@ wrapper div h3
 {
     margin-right: 50px;
 }
+
 /* HEADER*/
  header 
 {
@@ -80,18 +95,25 @@ a
     margin: 20px;
     color: #fff;
 }
+
 /* DISCO-IMAGE*/
 #disco-image
 {
     background: url(images/disco-309016_960_720.png) center no-repeat;
-    height: 663px;
+    height: 600px;
 }
+p
+{
+    font-size: 20px;
+}
+
 /* BACK*/
 #back
 {
     background: url(images/back.png) center no-repeat;
     height: 419px;
 }
+
 /* 6OCTOBRE*/
 #octobre-image
 {
