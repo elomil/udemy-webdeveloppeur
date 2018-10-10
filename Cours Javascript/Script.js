@@ -1,5 +1,5 @@
-var x = 12;
-var y = 5;
-x++;
+var string1 = "hello";
+var string2 = "john";
 
-console.log(x);
+
+console.log(string1+string2);
