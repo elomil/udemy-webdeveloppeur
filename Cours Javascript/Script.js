@@ -1,8 +1,5 @@
-var String1 = 'hello';
+var x = 12;
+var y = 5;
+var result = x+y;
 
-var String2 = "john";
-
-var myNewString = sting1 + " " + string2;
-
-
-console.log(myNewString);
+console.log(result);
